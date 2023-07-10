@@ -13,13 +13,13 @@ const Blog = () => {
 
       <div className='gpt3__blog-container'>
         <div className='gpt3__blog-container_groupA'>
-          <Article imgUrl={blog01} date="Jul 06, 2023" title="GPT-3 is the future. Let us explore how it works" />
+          <Article imgUrl={blog01} date="Jul 09, 2023" title="Successful generative AI examples worth noting." />
         </div>
         <div className='gpt3__blog-container_groupB'>
-          <Article imgUrl={blog02} date="Jul 06, 2023" title="GPT-3 is the future. Let us explore how it works" />
-          <Article imgUrl={blog03} date="Jul 06, 2023" title="GPT-3 is the future. Let us explore how it works" />
-          <Article imgUrl={blog04} date="Jul 06, 2023" title="GPT-3 is the future. Let us explore how it works" />
-          <Article imgUrl={blog05} date="Jul 06, 2023" title="GPT-3 is the future. Let us explore how it works" />
+          <Article imgUrl={blog02} date="Jul 01, 2023" title="Assessing different types of generative AI applications." />
+          <Article imgUrl={blog03} date="Jul 03, 2023" title="The creative thief: AI tools creating generated art." />
+          <Article imgUrl={blog04} date="Jul 05, 2023" title="Explore the foundations of artificial neural network modeling." />
+          <Article imgUrl={blog05} date="Jul 07, 2023" title="Artificial intelligence glossary: 60+ terms to know." />
         </div>
       </div>
 

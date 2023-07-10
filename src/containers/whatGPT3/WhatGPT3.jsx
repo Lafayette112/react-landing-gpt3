@@ -6,7 +6,7 @@ const WhatGPT3 = () => {
   return (
     <div className='gpt3__whatgpt3 section__margin' id='wgpt3'>
       <div className='gpt3__whatgpt3-feature'>
-        <Feature title="What is GPT-3" text="We so opinion friends me message as delight. Whole front do of plate heard oh ought. His defective nor convinced residence own. Connection has put impossible own apartments boisterous. At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by." />
+        <Feature title="What is GPT-3" text="GPT-3, or the third-generation Generative Pre-trained Transformer, is a neural network machine learning model trained using internet data to generate any type of text. Developed by OpenAI, it requires a small amount of input text to generate large volumes of relevant and sophisticated machine-generated text." />
       </div>
 
       <div className='gpt3__whatgpt3-heading'>
@@ -15,9 +15,9 @@ const WhatGPT3 = () => {
       </div>
 
       <div className='gpt3__whatgpt3-container'>
-        <Feature title="Chatbots" text="We so opinion friends me message as delight. Whole front do of plate heard oh ought." />
-        <Feature title="Knowledgebase" text="At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by. As put impossible own apartments" />
-        <Feature title="Education" text="At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by. As put impossible own apartments" />
+        <Feature title="Chatbots" text="GPT-3 processes text input to perform a variety of natural language tasks. It uses both natural language generation and natural language processing to understand and generate natural human language text." />
+        <Feature title="Knowledgebase" text="Generating content understandable to humans has historically been a challenge for machines that don't know the complexities and nuances of language, but GPT-3 is trained to generate realistic human text." />
+        <Feature title="Education" text="GPT-3 is first trained through a supervised testing phase and then a reinforcement phase. When training ChatGPT, a team of trainers ask the language model a question with a correct output in mind. If the model answers incorrectly, the trainers tweak the model to teach it the right answer." />
       </div>
     </div>
   )

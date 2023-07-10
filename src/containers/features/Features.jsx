@@ -5,20 +5,20 @@ import { Feature } from '../../components'
 
 const featuresData = [
   {
-    title: 'Improving end distrusts instantly',
-    text: 'From they fine john he give of rich he. They age and draw mrs like. Improving end distrusts may instantly was household applauded.'
+    title: 'History of GPT-3',
+    text: 'OpenAI developed GPT-3 as one of its research projects. It aimed to tackle the larger goals of promoting and developing "friendly AI" in a way that benefits humanity as a whole.'
   },
   {
-    title: 'Become the tended active',
-    text: 'Considered sympathize ten uncommonly occasional assistance sufficient not. Letter of on become he tended active enable to.'
+    title: 'Benefits of GPT-3',
+    text: 'Whenever a large amount of text needs to be generated from a machine based on some small amount of text input, GPT-3 provides a good solution. Large language models, like GPT-3, are able to provide decent outputs given a handful of training examples.'
   },
   {
-    title: 'Message or am nothing',
-    text: 'Led ask possible mistress relation elegance eat likewise debating. By message or am nothing amongst chiefly address.'
+    title: 'Dall-E',
+    text: 'Dall-E is an AI image generating neural network built on a 12 billion-parameter version of GPT-3. Dall-E was trained on a data set of text-image pairs and can generate images from user-submitted text prompts. ChatGPT and Dall-E were developed by OpenAI.'
   },
   {
-    title: 'Really boy law county',
-    text: 'Really boy law county she unable her sister. Feet you off its like like six. Among sex are leave law built now. In built table in an rapid blush.'
+    title: 'Future of GPT-3',
+    text: "There are a number of open source efforts in play to provide a free and nonlicensed model as a counterweight to Microsoft's exclusive ownership. OpenAI is planning larger and more domain-specific versions of its models trained on different and more diverse kinds of text."
   }
 ]
 

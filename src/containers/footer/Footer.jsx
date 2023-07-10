@@ -23,7 +23,6 @@ const Footer = () => {
         <div className='gpt3__footer-links_div'>
           <h4>Links</h4>
           <p>Social Media</p>
-          <p>Overons</p>
           <p>Counters</p>
           <p>Contact</p>
         </div>
@@ -44,7 +43,7 @@ const Footer = () => {
       </div>
 
       <div className='gpt3__footer-copyright'>
-        <p>© 2021 GPT-3. All rights reserved.</p>
+        <p>© 2023 Renan Kouadio. All rights reserved.</p>
       </div>
 
     </div>
